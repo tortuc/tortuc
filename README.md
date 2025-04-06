@@ -3,11 +3,11 @@
 
 Talking about Personal Stuffs:
 
-- Senior Angular/ Ionic Developer | Web & Mobile<br>
+- Senior Software Engineer | Web & Mobile<br>
 <img align="right" width="350" src="https://github.com/tortuc/tortuc/blob/main/img/image03.gif" />
 
 - Author of <a href="https://ng-tortu-components.vercel.app/">Ng component collection</a>
-- Over 7 years of experience working in a corporate environment as an Angular / IONIC developer.<br>
+- Over 7 years of experience working in a corporate environment.<br>
 - Strong technical skills in complex web, and mobile app development using Angular and IONIC.<br>
 - Experience in system analysis, design, workflow architecture, development, testing, and maintenance of web, and mobile applications.<br>
 - Experience developing highly interactive web, and mobile applications utilizing JavaScript, TypeScript, JSON, Bootstrap/ TailwindCSS, Angular 10 ~ 19, Angular SSR, Angular Material, Ionic, integrating GraphQL/ Rest API/ Soap API<br>
