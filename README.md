@@ -8,7 +8,7 @@ Talking about Personal Stuffs:
 
 - Author of <a href="https://ng-tortu-components.vercel.app/">Ng component collection</a>
 - Over 7 years of experience working in a corporate environment.<br>
-- Strong technical skills in complex web, and mobile app development using Angular and IONIC.<br>
+- Strong technical skills in complex web, and mobile app development using Angular, IONIC, Java(Spring Boot), C#(.Net Core).<br>
 - Experience in system analysis, design, workflow architecture, development, testing, and maintenance of web, and mobile applications.<br>
 - Experience developing highly interactive web, and mobile applications utilizing JavaScript, TypeScript, JSON, Bootstrap/ TailwindCSS, Angular 10 ~ 19, Angular SSR, Angular Material, Ionic, integrating GraphQL/ Rest API/ Soap API<br>
 - Experience in writing automated tests to ensure the quality and reliability of the codebase.<br>
