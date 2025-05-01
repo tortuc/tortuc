@@ -12,7 +12,6 @@ Talking about Personal Stuffs:
 - Experience in system analysis, design, workflow architecture, development, testing, and maintenance of web, and mobile applications.<br>
 - Experience developing highly interactive web, and mobile applications utilizing JavaScript, TypeScript, JSON, Bootstrap/ TailwindCSS, Angular 10 ~ 19, Angular SSR, Angular Material, Ionic, integrating GraphQL/ Rest API/ Soap API<br>
 - Experience in writing automated tests to ensure the quality and reliability of the codebase.<br>
-- Experience in working with Custom Component, Directive, Service, and Pipe of Angular.<br>
 - Extensive experience in working with the Agile Development process.<br>
 - Staying up-to-date with the latest web and mobile development trends and technologies to ensure that the Angular/ Ionic application stays current and competitive. <br>
 
