@@ -3,7 +3,7 @@
 
 Talking about Personal Stuffs:
 
-- Senior Angular-Full Stack Engineer | Web & Mobile<br>
+- Senior Angular - Full Stack Engineer | Web & Mobile<br>
 <img align="right" width="350" src="https://github.com/tortuc/tortuc/blob/main/img/image03.gif" />
 
 - Author of <a href="https://ng-tortu-components.vercel.app/">Ng component collection</a>
