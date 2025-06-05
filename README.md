@@ -15,7 +15,7 @@ Talking about Personal Stuffs:
 - Extensive experience in working with the Agile Development process.<br>
 - Staying up-to-date with the latest web and mobile development trends and technologies to ensure that the Angular/ Ionic application stays current and competitive. <br>
 
-If you are looking for a skilled and committed senior Angular/ IONIC developer, then look no further. Let us do great things together!
+If you are looking for a skilled and committed senior Angular/ IONIC Full-stack developer, then look no further. Let us do great things together!
 
 ##
 ##### My working style
